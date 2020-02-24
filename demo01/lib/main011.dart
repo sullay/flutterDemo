@@ -54,7 +54,7 @@ class MyScaffold extends StatelessWidget {
             ),
             new Expanded(
               child: new Center(
-                child: new Text('Hello, world! sully'),
+                child: new Text('Hello, world!'),
               ),
             ),
           ],
